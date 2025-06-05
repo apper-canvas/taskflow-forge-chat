@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "title": "Complete project proposal",
+    "description": "Finalize the Q1 project proposal for the new client onboarding system",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2024-01-25",
+    "listId": "1",
+    "createdAt": "2024-01-15T10:00:00Z",
+    "updatedAt": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Review team performance reports",
+    "description": "Go through all team member performance reports for annual review",
+    "status": "completed",
+    "priority": "medium",
+    "dueDate": "2024-01-20",
+    "listId": "1",
+    "createdAt": "2024-01-10T14:30:00Z",
+    "updatedAt": "2024-01-18T16:45:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Update website documentation",
+    "description": "Update API documentation and user guides on the company website",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2024-01-28",
+    "listId": "1",
+    "createdAt": "2024-01-12T09:15:00Z",
+    "updatedAt": "2024-01-12T09:15:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Schedule dentist appointment",
+    "description": "Book annual dental checkup and cleaning",
+    "status": "pending",
+    "priority": "low",
+    "dueDate": "2024-02-01",
+    "listId": "2",
+    "createdAt": "2024-01-16T11:20:00Z",
+    "updatedAt": "2024-01-16T11:20:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Plan weekend camping trip",
+    "description": "Research camping sites and book reservations for the family trip",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2024-01-30",
+    "listId": "2",
+    "createdAt": "2024-01-14T13:45:00Z",
+    "updatedAt": "2024-01-14T13:45:00Z"
+  },
+  {
+    "id": "6",
+    "title": "Grocery shopping",
+    "description": "Buy ingredients for meal prep and weekly groceries",
+    "status": "completed",
+    "priority": "medium",
+    "dueDate": "2024-01-22",
+    "listId": "2",
+    "createdAt": "2024-01-21T08:00:00Z",
+    "updatedAt": "2024-01-22T10:30:00Z"
+  },
+  {
+    "id": "7",
+    "title": "Complete React course module 5",
+    "description": "Finish watching videos and complete exercises for advanced React patterns",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2024-01-26",
+    "listId": "3",
+    "createdAt": "2024-01-17T15:30:00Z",
+    "updatedAt": "2024-01-17T15:30:00Z"
+  },
+  {
+    "id": "8",
+    "title": "Read TypeScript handbook",
+    "description": "Study TypeScript fundamentals and advanced types",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2024-02-05",
+    "listId": "3",
+    "createdAt": "2024-01-13T19:45:00Z",
+    "updatedAt": "2024-01-13T19:45:00Z"
+  },
+  {
+    "id": "9",
+    "title": "Practice coding algorithms",
+    "description": "Solve 10 leetcode problems focusing on dynamic programming",
+    "status": "pending",
+    "priority": "low",
+    "dueDate": null,
+    "listId": "3",
+    "createdAt": "2024-01-11T20:15:00Z",
+    "updatedAt": "2024-01-11T20:15:00Z"
+  },
+  {
+    "id": "10",
+    "title": "Prepare presentation slides",
+    "description": "Create slides for the upcoming team meeting about project roadmap",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2024-01-24",
+    "listId": "1",
+    "createdAt": "2024-01-18T12:00:00Z",
+    "updatedAt": "2024-01-18T12:00:00Z"
+  },
+  {
+    "id": "11",
+    "title": "Clean garage",
+    "description": "Organize tools and donate items no longer needed",
+    "status": "pending",
+    "priority": "low",
+    "dueDate": "2024-02-10",
+    "listId": "2",
+    "createdAt": "2024-01-19T14:20:00Z",
+    "updatedAt": "2024-01-19T14:20:00Z"
+  },
+  {
+    "id": "12",
+    "title": "Review investment portfolio",
+    "description": "Check performance and rebalance investment allocations",
+    "status": "completed",
+    "priority": "medium",
+    "dueDate": "2024-01-21",
+    "listId": "2",
+    "createdAt": "2024-01-20T16:30:00Z",
+    "updatedAt": "2024-01-21T18:15:00Z"
+  }
+]
